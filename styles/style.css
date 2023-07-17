@@ -291,8 +291,8 @@ button.btn-text {
 .icons-group {
 }
 .icons-group img {
+  cursor: pointer;
 }
-
 /* ================================== */
 /* Media Query Section                */
 /* Mobile Responsive                  */
