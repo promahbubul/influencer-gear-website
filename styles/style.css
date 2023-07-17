@@ -170,8 +170,9 @@ main {
   gap: 20px;
   border-radius: 5px;
   background: #fff;
-  /* box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15); */
+  margin-bottom: 30px;
 }
+
 .card {
   border-radius: 5px;
   background: #fff;
@@ -211,6 +212,22 @@ main {
   font-weight: 600;
   font-family: var(--fontSans);
   color: var(--dark3);
+}
+
+button.btn-text {
+  display: block;
+  float: right;
+  border: none;
+  background: none;
+  font-size: 1.3rem;
+  color: #e02c6d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-text span {
+  margin-right: 10px;
 }
 /* ================================== */
 /* Feature Section                    */
@@ -366,9 +383,8 @@ main {
   main {
     margin: 0 20px;
   }
-
   .popular {
-    margin: 40px 0;
+    margin: 120px 0;
   }
 
   .popular h1 {
@@ -535,9 +551,8 @@ main {
   }
 
   .popular {
-    margin: 40px 0;
+    margin: 120px 0;
   }
-
   .popular h1 {
     text-align: center;
     margin-bottom: 30px;
