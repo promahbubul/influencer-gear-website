@@ -224,6 +224,7 @@ button.btn-text {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 
 .btn-text span {
@@ -450,6 +451,7 @@ button.btn-text {
 
   .btn-primary {
     margin: auto;
+    cursor: pointer;
   }
 }
 
