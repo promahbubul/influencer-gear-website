@@ -44,31 +44,115 @@
 /* ================================== */
 /* Header Section                      */
 /* ================================== */
-
+header {
+}
 /* ================================== */
 /* Navbar Section                     */
 /* ================================== */
+.navbar {
+}
+
+.nav-left {
+}
+.nav-left h1 {
+}
+.nav-right {
+}
+.nav-right ul {
+}
+.nav-right ul > li {
+}
+.nav-right a {
+}
+.nav-right img {
+}
 
 /* ================================== */
 /* Banner Section                     */
 /* ================================== */
+.banner {
+}
+.banner-left h1 {
+}
+.banner-left p {
+}
+.banner-left button {
+}
+.banner-right {
+}
+.banner-right .circle {
+}
+.banner-right .camera {
+}
 
 /* ================================== */
 /* Sponsor Section                    */
 /* ================================== */
 
+.sponsor {
+}
+.sponsor img {
+}
+
 /* ================================== */
 /* Main Section                       */
 /* ================================== */
-
+main {
+}
 /* ================================== */
 /* Popular Section                    */
 /* ================================== */
+.popular {
+}
+.popular-card-group {
+}
+.card {
+}
+.card-top {
+}
+.card-top img {
+}
+
+.card-bottom {
+}
+.card-bottom h3 {
+}
+.card-bottom h4 {
+}
+.card-bottom img {
+}
+.card-bottom span {
+}
+.card-bottom p {
+}
 
 /* ================================== */
 /* Feature Section                    */
 /* ================================== */
-
+.feature {
+}
+.feature-left {
+}
+.feature-left img {
+}
+.feature-right {
+}
+.feature-right h3 {
+}
+.feature-right p {
+}
+.feature-right button {
+}
 /* ================================== */
 /* Footer Section                     */
 /* ================================== */
+.footer {
+}
+.footer h3 {
+}
+.footer p {
+}
+.icons-group {
+}
+.icons-group img {
+}
