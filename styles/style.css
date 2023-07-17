@@ -265,6 +265,7 @@ button.btn-text {
 }
 .feature-right button {
   border-radius: 0px;
+  cursor: pointer;
 }
 /* ================================== */
 /* Footer Section                     */
