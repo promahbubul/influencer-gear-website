@@ -119,6 +119,7 @@ header {
   font-weight: 700;
 }
 .banner-left button {
+  cursor: pointer;
 }
 .banner-right {
   width: 100%;
