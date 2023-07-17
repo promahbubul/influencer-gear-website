@@ -207,7 +207,7 @@ main {
 .card-bottom span {
 }
 .card-bottom p {
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   font-weight: 600;
   font-family: var(--fontSans);
   color: var(--dark3);
@@ -302,11 +302,11 @@ main {
     gap: 10px;
     grid-template-columns: auto auto auto auto;
     justify-items: center;
-}
+  }
 
-.nav-right img {
-  display: none;
-}
+  .nav-right img {
+    display: none;
+  }
 
   .banner {
     width: 100%;
@@ -337,19 +337,18 @@ main {
     display: flex;
     justify-content: center;
     margin-bottom: 70px;
-}
+  }
 
+  .banner-right .circle {
+    position: absolute;
+    width: 90%;
+    margin: auto;
+  }
 
-.banner-right .circle {
-  position: absolute;
-  width: 90%;
-  margin: auto;
-}
-
-.banner-right .camera {
-  position: relative;
-  width: 100%;
-}
+  .banner-right .camera {
+    position: relative;
+    width: 100%;
+  }
 
   .sponsor {
     display: flex;
