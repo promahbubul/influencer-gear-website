@@ -1,0 +1,74 @@
+/* ================================== */
+/* Import fonts                       */
+/* ================================== */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Manrope:wght@700&family=Poppins:wght@500;600;700&family=Roboto:wght@700&display=swap");
+
+/* ================================== */
+/* Default Style                      */
+/* ================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn-primary {
+  background: var(--btnColor);
+  color: #fff;
+  border: 0px;
+  padding: 10px 20px;
+  border-radius: 50px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.btn-primary span {
+  margin-right: 10px;
+}
+/* ================================== */
+/* Common Style                       */
+/* ================================== */
+:root {
+  --fontSans: "Inter", sans-serif;
+  --fontManrope: "Manrope", sans-serif;
+  --Popins: "Poppins", sans-serif;
+  --roboto: "Roboto", sans-serif;
+  --text-gray-900: #18191f;
+  --dark1: #3a3a3a;
+  --dark2: #5e6366;
+  --dark3: #787885;
+  --btnColor: #e02c6d;
+  --bgColor: #0a0826;
+}
+
+/* ================================== */
+/* Header Section                      */
+/* ================================== */
+
+/* ================================== */
+/* Navbar Section                     */
+/* ================================== */
+
+/* ================================== */
+/* Banner Section                     */
+/* ================================== */
+
+/* ================================== */
+/* Sponsor Section                    */
+/* ================================== */
+
+/* ================================== */
+/* Main Section                       */
+/* ================================== */
+
+/* ================================== */
+/* Popular Section                    */
+/* ================================== */
+
+/* ================================== */
+/* Feature Section                    */
+/* ================================== */
+
+/* ================================== */
+/* Footer Section                     */
+/* ================================== */
